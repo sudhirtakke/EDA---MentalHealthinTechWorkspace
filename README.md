@@ -5,4 +5,4 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 
 The notebook has observations with each step in order to explain thoroughly how to approach the data set. Based on the observation some questions also are answered in the notebook for the reference though not all of them are explored in the analysis.
 
-[Jupyter Notebook](./EDA - MentalHealthinTechWorkspace.ipynb)
+[Jupyter Notebook](./EDA_MentalHealthinTechWorkspace.ipynb)
