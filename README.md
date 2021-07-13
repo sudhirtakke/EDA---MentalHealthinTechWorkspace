@@ -53,4 +53,24 @@ Not much interference getting from this plot
 
 The employees having Family History are very much likely to go for treatment.
 
+9) Work interference variable distribution 
+
+![image](https://user-images.githubusercontent.com/49444353/125400129-272e1900-e3cf-11eb-9239-deff40717bcf.png)
+
+The workers are interfered sometimes for the maximum number of time and often for the least number of times
+
+10) Donut plot to show relationship between gender and treatement 
+
+![image](https://user-images.githubusercontent.com/49444353/125400627-c18e5c80-e3cf-11eb-8d2a-69c27c953c83.png)
+
+11) Countries contributing most
+
+![image](https://user-images.githubusercontent.com/49444353/125400827-ff8b8080-e3cf-11eb-805f-0a3463463557.png)
+
+12) Top 10 US states in terms of contribution
+
+![image](https://user-images.githubusercontent.com/49444353/125400978-2fd31f00-e3d0-11eb-9286-8e9632451ce8.png)
+
+
+
 [Jupyter Notebook](./EDA_MentalHealthinTechWorkspace.ipynb)
